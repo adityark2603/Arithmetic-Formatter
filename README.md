@@ -4,11 +4,11 @@ The arithmetic formatter is typically used to format a list of arithmetic proble
 
 
 **Key Features of an Arithmetic Formatter:**
-Validations:
+1. Validations:
 Ensures there are no more than five problems.
 Verifies that only the + and - operators are used.
 Confirms that operands are numeric and no longer than four digits.
 
-Output Formatting:
+2. Output Formatting:
 The problems are formatted with appropriate spacing between the operators, operands, and the results (if requested).
 Each problem’s length is determined by the longest operand to ensure alignment.
