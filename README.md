@@ -14,4 +14,7 @@ The problems are formatted with appropriate spacing between the operators, opera
 Each problem’s length is determined by the longest operand to ensure alignment.
 
 
-This project is part of the 'Scientific Computing with Python' course by freeCodeCamp that I'm currently working on.
+
+
+
+PS: This project is part of the 'Scientific Computing with Python' course by freeCodeCamp that I'm currently working on.
