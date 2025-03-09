@@ -12,3 +12,6 @@ Confirms that operands are numeric and no longer than four digits.
 2. Output Formatting:
 The problems are formatted with appropriate spacing between the operators, operands, and the results (if requested).
 Each problem’s length is determined by the longest operand to ensure alignment.
+
+
+This project is part of the 'Scientific Computing with Python' course by freeCodeCamp that I'm currently working on.
